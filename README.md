@@ -15,7 +15,7 @@ We might make a plugin in future, but at the moment the best thing to do is
 
 To use your bookmarklet - go to a Google Analytics 4 property and then click the bookmarklet.
 
-Feel free to use this code, and change and improve it as you see fit. However - in general you should be careful about running other people's code in your browser. I have put this together for [Aira](https://aira.net/) ([here is my announcement blog post](https://aira.net/blog/aira-welcomes-robin-lord-as-head-of-innovation)). 
+Feel free to use this code, and change and improve it as you see fit. However - in general you should be careful about running other people's code in your browser. I have put this together for [Aira](https://aira.net/) ([here's proof I work there](https://aira.net/blog/aira-welcomes-robin-lord-as-head-of-innovation)). 
 
 We're sharing this publicly and have nothing to gain from being doing anything deceptive here but please check this code in detail to make sure you're comfortable with what it is going to do (you'll see it's only clicking around the page).
 
