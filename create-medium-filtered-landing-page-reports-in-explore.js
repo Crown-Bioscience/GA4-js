@@ -47,7 +47,7 @@ javascript: (() => {
 
         var segmentsSection = getElementsByInnerText(
             text = "Segments",
-            elemType = "ga-help-tooltip",
+            elemType = "ga-help-tooltip-ng1",
             searchSpace = document)[0].parentElement;
 
         var addNewButton = segmentsSection.querySelector("md-icon");
@@ -163,7 +163,7 @@ javascript: (() => {
 
         var section = getElementsByInnerText(
             text = dimensionOrMetric,
-            elemType = "ga-help-tooltip",
+            elemType = "ga-help-tooltip-ng1",
             searchSpace = document)[0].parentElement;
 
             section.querySelector("md-icon").click();
